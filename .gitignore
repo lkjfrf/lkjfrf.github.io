@@ -34,3 +34,5 @@ _site
 
 # Obsidian
 .obsidian/
+.trash/
+
